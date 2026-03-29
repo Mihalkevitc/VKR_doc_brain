@@ -20,6 +20,8 @@ Let's go through this to set up your repo:
 
 - [ ] You can also paste images in your Foam, just press `cmd+alt+v` to create the image file and link to it from your note. See [[paste-images-from-clipboard]].
 
+![](2026-03-29-14-57-10.png)
+
 - [ ] You can use Foam for your daily notes, or journaling. Execute now the `Foam: Open Daily Note` command to create a new file in your `journal` folder. See [[daily-notes]].
 
 - [ ] Want to see how to manage your tasks? Go to the [[todo]] note
